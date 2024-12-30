@@ -1,0 +1,2 @@
+C:\Users\Windows 10\Desktop\Mid_Monthly_1285649\Generic_Approach\obj\Release\Generic_Approach.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Mid_Monthly_1285649\Generic_Approach\obj\Release\Generic_Approach.csproj.CoreCompileInputs.cache
